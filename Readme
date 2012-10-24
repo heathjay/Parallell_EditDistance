@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+int x=22;
+
+int main()
+{
+  int x=23;
+  printf("%d"),x);
+}
+  
+  
